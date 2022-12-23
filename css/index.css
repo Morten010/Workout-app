@@ -35,7 +35,6 @@ ul li a{
     display: inline-block;
     width: 100%;
     text-align: center;
-    border-radius: 1rem;
 }
 ul li a:hover{
     background-color: #FF592D;
